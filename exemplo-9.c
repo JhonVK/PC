@@ -16,7 +16,6 @@ for (int i=0; i<12; i++){
 		t++;
 	}
 }
-
 for (int j=0; j<6; j++){
 
 	printf("%d\n", vetimpar[j]);
