@@ -25,8 +25,6 @@ for (int j=0; j<6; j++){
 	printf("%d\n", vetpar[j]);
 }
 
-
-
 	return 0;
 }
 
